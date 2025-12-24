@@ -1,0 +1,7 @@
+[package]
+name = "day-3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+utils = { version = "0.1.0", path = "/home/zb/Dokumente/Advent/utils" }
